@@ -1,0 +1,12 @@
+.movieList-input {
+    padding: 5px;
+    width: 90%;
+    margin: 5px auto;
+    overflow: hidden;
+}
+
+.input1 {
+    width: 100%;
+    display: inline-block;
+    float: left;
+}

@@ -1,0 +1,12 @@
+.actions {
+    margin: 20px auto;
+    border: 1px solid sandybrown;
+    border-radius: 5px;
+    box-shadow: 1px 2px 1px 1px slateblue;
+    width: 400px;
+    padding: 10px;
+}
+
+.color {
+    color: white;
+}
